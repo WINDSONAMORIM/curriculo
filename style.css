@@ -6,7 +6,7 @@
 
 main{
     height: 88vh;
-    margin: 2px;
+    margin: 2px;    
 }
 
 aside{
@@ -91,12 +91,24 @@ aside figure{
 }
 
 #conhecimentos ol{
-    list-style-type:upper-latin;    
+    list-style-type:upper-latin; 
+    font-size: 1em;   
+}
+
+#conhecimentos-img img{
+    position: absolute;
+    left: 60%;
+    top: 20%;
+    width: 320px;
+    height: 320px;
 }
 /*--------------------------------------*/
-#objetivo figure{
-    text-align: center;
-    margin-top: 40px;
+#objetivo figure img{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    width: 250px;
+    height: 250px;
 }
 
 small{
