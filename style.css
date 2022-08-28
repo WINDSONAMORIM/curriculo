@@ -85,6 +85,10 @@ aside figure{
     text-decoration: none;
     color: black;
 }
+
+#dados-pessoais p{
+    font-size: 1em;
+}
 /*--------------------------------------*/
 #conhecimentos{
     padding-left: 35px;
