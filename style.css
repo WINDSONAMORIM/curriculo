@@ -109,10 +109,21 @@ aside figure{
 /*--------------------------------------*/
 #objetivo figure img{
     position: absolute;
-    left: 50%;
-    top: 40%;
-    width: 250px;
-    height: 250px;
+    left: 80%;
+    top: 70%;
+    width: 150px;
+    height: 150px;
+}
+
+#Ob-profissionais{
+    float: left;
+    width: 35vw;
+    margin-right: 20px;
+}
+
+#Ob-pessoais{
+   float: right;
+   width: 35vw;    
 }
 
 small{
